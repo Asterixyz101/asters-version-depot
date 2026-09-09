@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.0.8",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.8.zip",
+      "sha256": "D85A9BD45A9E8496BBCDE4D78A245E423AB981766600E7586691CEB3C201A06B",
+      "changelog": [
+        "Straightened out Campanula"
+      ]
+    },
+    {
       "package_version": "1.0.7b",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.7b.zip",
       "sha256": "212CD47AB569C1A170FAC37FEEDBD2866187FEF00A8334EE6A7CFB12644EBAB1",
