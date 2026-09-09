@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "package_version": "1.0.7",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.7.zip",
+      "sha256": "3383F94F42BC82E09AA6E79A9E0FE5E38603A7C787C0F8730D8C1C9946FF518F",
+      "changelog": [
+        "Reworked Campanula B2 to have uniform location coordinates"
+      ]
+    },
+    {
+      "package_version": "1.0.6",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.6.zip",
+      "sha256": "38F5F8FBAB39A14E01E6B518651F463610D574764902BECBD2710C214E8C1081",
+      "changelog": [
+        "Auto-updating link added to manifest + uniform locations for Campanula B1"
+      ]
+    },
+    {
+      "package_version": "1.0.5",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.5.zip",
+      "sha256": "A4D0D6964F8210F9640365A25FEBF6F1A54FEAD817105BD50E1FBB88D93FA2CF",
+      "changelog": [
+        "Fixed Campanula B1 Chest 20X 13Y being in logic on the tracker in sphere 1"
+      ]
+    }
+  ]
+}
