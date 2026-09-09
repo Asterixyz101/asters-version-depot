@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.0.7b",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.7b.zip",
+      "sha256": "212CD47AB569C1A170FAC37FEEDBD2866187FEF00A8334EE6A7CFB12644EBAB1",
+      "changelog": [
+        "Reworked Campanula B2 to have uniform location coordinates"
+      ]
+    },
+    {
       "package_version": "1.0.7",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.7.zip",
       "sha256": "DF616E61139D8DA7022949349AE1B655D1A7121103E48438D2ABD230E1D87C63",
