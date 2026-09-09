@@ -5,7 +5,7 @@
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.0.7b.zip",
       "sha256": "212CD47AB569C1A170FAC37FEEDBD2866187FEF00A8334EE6A7CFB12644EBAB1",
       "changelog": [
-        "Reworked Campanula B2 to have uniform location coordinates"
+        "Fixed two chests in Campanula B2"
       ]
     },
     {
