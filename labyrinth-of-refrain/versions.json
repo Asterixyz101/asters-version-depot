@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.1.2",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.2.zip",
+      "sha256": "DFA38E0792CA37A4DC7C318F0AC4153B334301102A810FA2EF9E899151F6619B",
+      "changelog": [
+        "Fixed Campanula B1 Chest Mapping"
+      ]
+    },
+    {
       "package_version": "1.1.1",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.1.zip",
       "sha256": "B270A5AA0F7B768078CA28878312E8F161D7CC630D5216C35B2B1D2416373654",
