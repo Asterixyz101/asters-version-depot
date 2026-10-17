@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.1.5",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.5.zip",
+      "sha256": "789C83C786B4FBBE794E47417F0C265E6B3FD0C33F93409A652497164833E150",
+      "changelog": [
+        "Minor Melm Fixes"
+      ]
+    },
+    {
       "package_version": "1.1.4",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.4.zip",
       "sha256": "EE4303429C19A802171182E73A757B72BBDDC4F848FE7A4E312F10480D109C75",
