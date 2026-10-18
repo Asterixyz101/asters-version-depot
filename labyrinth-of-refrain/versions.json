@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.1.7",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.7.zip",
+      "sha256": "33619D9039415C12DDE5E5DEBFB091FF90D31ECF62EEF4948E7C7DE81F88C55B",
+      "changelog": [
+        "Removed super boss events"
+      ]
+    },
+    {
       "package_version": "1.1.6",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.6.zip",
       "sha256": "8DE20289E00914E842308EE73CADF6C994FA1C99CA82CA69267F1A320B48BFEA",
