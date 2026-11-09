@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.1",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-galleria-poptracker/archive/refs/tags/v0.1.zip",
+      "sha256": "160BF57C3A0DDF46480B2CC3F24136F5F15F70A83EB321FD7C6CCAC8154DE0E4",
+      "changelog": [
+        "Finished setting up the layout"
+      ]
+    },
+    {
       "package_version": "0.0.1",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-galleria-poptracker/archive/refs/tags/v0.0.1.zip",
       "sha256": "DEA111BF1CC5B59E75E633B7E98DBC7DCDF2D2AA43D390C8558405268466CEBE",
