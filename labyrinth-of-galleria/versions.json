@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.0",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-galleria-poptracker/archive/refs/tags/v1.0.zip",
+      "sha256": "741BF512600B1A0E3DCCFEB2EED67B375FB593C75D677BE2554FAF79B320763B",
+      "changelog": [
+        "Finished all the logic for act 1"
+      ]
+    },
+    {
       "package_version": "0.1",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-galleria-poptracker/archive/refs/tags/v0.1.zip",
       "sha256": "160BF57C3A0DDF46480B2CC3F24136F5F15F70A83EB321FD7C6CCAC8154DE0E4",
