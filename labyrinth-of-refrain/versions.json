@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.2.0",
+      "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.2.0.zip",
+      "sha256": "F71906DC84BB6600FBC35060259D69BF2E5AF081B6BDB80A4A815E52EC4587CA",
+      "changelog": [
+        "Added automated goal tracking"
+      ]
+    },
+    {
       "package_version": "1.1.8",
       "download_url": "https://github.com/Asterixyz101/labyrinth-of-refrain-poptracker/archive/refs/tags/v1.1.8.zip",
       "sha256": "5A8CDDE848E3B025E74A0BD26F6167F0FF08F774424A56258F98737439CEBFAD",
